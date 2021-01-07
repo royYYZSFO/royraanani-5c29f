@@ -34,5 +34,4 @@ form_fields:
 submit_label: Send Message
 template: contact
 ---
-
-To get in touch fill the form below.
+The best way to reach out to me is via [Twitter](https://www.twitter.com/royr). If you prefer email, provide as much context as possible and I'll do my best to respond.
