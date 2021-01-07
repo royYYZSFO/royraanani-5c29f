@@ -21,7 +21,7 @@ form_fields:
     options:
       - Startup advice
       - Investment opportunity
-      - Other
+      - Sales / Partnership
   - input_type: textarea
     name: message
     label: Message
