@@ -20,7 +20,7 @@ form_fields:
     default_value: Please select
     options:
       - Advice
-      - Sponsorship
+      - Investment opportunity
       - Other
   - input_type: textarea
     name: message
