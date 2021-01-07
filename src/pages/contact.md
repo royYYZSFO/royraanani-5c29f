@@ -19,7 +19,7 @@ form_fields:
     label: Subject
     default_value: Please select
     options:
-      - Investment opportunity
+      - Advice
       - Sponsorship
       - Other
   - input_type: textarea
